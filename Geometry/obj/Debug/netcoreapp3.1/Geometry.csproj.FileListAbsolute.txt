@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Geometry\bin\Debug\netcoreapp3.1\Geometry.deps.json
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Geometry\bin\Debug\netcoreapp3.1\Geometry.dll
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Geometry\bin\Debug\netcoreapp3.1\Geometry.pdb
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Geometry\obj\Debug\netcoreapp3.1\Geometry.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Geometry\obj\Debug\netcoreapp3.1\Geometry.AssemblyInfo.cs
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Geometry\obj\Debug\netcoreapp3.1\Geometry.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Geometry\obj\Debug\netcoreapp3.1\Geometry.dll
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Geometry\obj\Debug\netcoreapp3.1\Geometry.pdb
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Geometry\obj\Debug\netcoreapp3.1\Geometry.csproj.AssemblyReference.cache

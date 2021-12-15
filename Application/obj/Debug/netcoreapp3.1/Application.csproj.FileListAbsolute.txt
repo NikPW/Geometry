@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Application\bin\Debug\netcoreapp3.1\Application.exe
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Application\bin\Debug\netcoreapp3.1\Geometry.dll
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Application\bin\Debug\netcoreapp3.1\Geometry.pdb
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Application\obj\Debug\netcoreapp3.1\Application.pdb
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache
+C:\Users\User\Desktop\Учеба\Программирование\C#\Geometry\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache

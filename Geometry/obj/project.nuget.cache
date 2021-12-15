@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XCrjm5kj8dnwGBpGQiwqOWESnYyRBALBFXxuKQN1Ux/9bUIP/nOJyLXWtKY4Eao44nQMKczJN4qvPmnh3WAT9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\davla\\Desktop\\Geometry\\Geometry\\Geometry.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\davla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
